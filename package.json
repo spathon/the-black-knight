@@ -1,0 +1,25 @@
+{
+  "name": "the-black-knight",
+  "version": "1.0.0",
+  "description": "None shall pass",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spathon/the-black-knight.git"
+  },
+  "author": "Spathon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spathon/the-black-knight/issues"
+  },
+  "homepage": "https://github.com/spathon/the-black-knight#readme",
+  "dependencies": {
+    "hapi": "^13.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
